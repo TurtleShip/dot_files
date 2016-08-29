@@ -5,5 +5,5 @@ This is a collection of my dot files that I use when I set up a new mac machine.
 
 ### List of dot files
 
-- .zshrc
+- [.zshrc](/.zshrc)
 - .vimrc
